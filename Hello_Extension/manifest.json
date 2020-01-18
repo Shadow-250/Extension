@@ -6,7 +6,7 @@
 
     "content_scripts":[
         {
-            "matches":["http://arduino.vn/*"],
+            "matches":["http://*"],
             "css": ["css/style.css"]
         }
     ]
