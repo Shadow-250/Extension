@@ -4,7 +4,7 @@
     "description": "Build an Extension!",
     "manifest_version": 2,
 
-    "content-scripts":[
+    "content_scripts":[
         {
             "matches":["http://arduino.vn/*"],
             "css": ["css/style.css"]
