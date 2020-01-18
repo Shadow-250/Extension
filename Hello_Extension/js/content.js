@@ -5,4 +5,4 @@ function removeElementsByClass(className){
     }
 }
 
-removeElementsByClass('cell');
+removeElementsByClass('footer');
